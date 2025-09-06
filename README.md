@@ -4,6 +4,11 @@ I have developed a replica of the asteroids video game in python, using the pyga
 
 You can use the uv package manager and the uv.lock file to reproduce the environment I used to develop the game, so you can play it.
 
+Once you'vre re-created the environment, just run the command below to run the game:
+```
+uv run main.py
+```
+
 ## New Features 👀
 The game is fully playable, however I would like to get around to adding features from the list of improvements below to enhance the user experience of the game:
 - Add a scoring system
