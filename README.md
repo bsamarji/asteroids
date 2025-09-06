@@ -9,6 +9,8 @@ Once you'vre re-created the environment, just run the command below to run the g
 uv run main.py
 ```
 
+You can also use cmd + q on Mac (or equilavent command on another OS) to quit the game.
+
 ## New Features 👀
 The game is fully playable, however I would like to get around to adding features from the list of improvements below to enhance the user experience of the game:
 - Add a scoring system
